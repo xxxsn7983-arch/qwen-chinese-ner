@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.safetensors
+*.pt
+*.pth
+output*/
+merged_model*/
+runs/
