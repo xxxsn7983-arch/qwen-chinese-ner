@@ -28,7 +28,7 @@ v2 的原始评估记录及各版本效率数据有待补充。
 - inference*.py：测试集与验证集推理。
 - eval_val.py：验证集评估。
 - eval_outputs/：评估指标、图表和错误案例。
-- docs/report.pdf：技术报告。
+- report.pdf：技术报告。
 
 ## 复现说明
 
